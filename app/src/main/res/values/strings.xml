@@ -1,0 +1,258 @@
+<resources>
+    <string name="app_name">Laffayeh App</string>
+    <string name="title_activity_user_profile">UserProfileActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_my_profile">My Profile</string>
+    <string name="menu_favorite">Favorites</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_contact_us">Contact Us</string>
+    <string name="menu_logout">Logout</string>
+    <string name="title_activity_office_profile">OfficeProfileActivity</string>
+    <string name="menu_office_profile">My Profile</string>
+    <string name="menu_add_advertisement">Add Advertisement</string>
+    <string name="menu_edit_advertisement">Edit Advertisement</string>
+    <string name="menu_about_us">About Us</string>
+    <string name="AboutUs">-Laffayeh`s- mission is to help customers that need housemaids. The customer can get the advertisements by  searching specific properties of the  housemaid from offices or freelancers and search for the nearest,In which reducing time,cost and money.</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_send">Send</string>
+
+    <string name="choose_your_role">Choose your Role:</string>
+    <string name="user">Housekeeper</string>
+    <string name="housemaid_office">Housemaid`s Office</string>
+    <string name="housemaid_freelancer">Housemaid`s freelancer</string>
+    <string name="please_wait_the_code">Please wait the code!</string>
+    <string name="enter_the_code">enter the code</string>
+    <string name="verify">Verify</string>
+    <string name="please_enter_your_phone">Please enter your phone!</string>
+    <string name="enter_your_phone">enter your phone!</string>
+    <string name="Continue">Continue</string>
+    <string name="New_to_Laffayeh_sign_up">New to Laffayeh? sign-up!</string>
+    <string name="Fastest_way_to_get_your_housemaid">Fastest way to get your housemaid!</string>
+    <string name="Name">Name:</string>
+    <string name="Email">Email:</string>
+    <string name="Birth">Birth:</string>
+    <string name="Kindly_Add_your_official_Photo">Kindly, Add your profile Photo:</string>
+    <string name="Submit">Submit</string>
+    <string name="Kindly_Add_your_official_Logo">Kindly, Add your official Logo:</string>
+    <string name="Language">Language:</string>
+    <string name="Nationality">Nationality:</string>
+    <string name="Religion">Religion:</string>
+    <string name="Work_hours">Work hours:</string>
+    <string name="experience">experience:</string>
+    <string name="Add_Advertisement">Add Advertisement!</string>
+    <string name="Work_days">Work days:</string>
+    <string name="Sunday">Sunday</string>
+    <string name="Monday">Monday</string>
+    <string name="Tuesday">Tuesday</string>
+    <string name="Wednesday">Wednesday</string>
+    <string name="Thursday">Thursday</string>
+    <string name="Friday">Friday</string>
+    <string name="Saturday">Saturday</string>
+    <string name="my_profile">My Profile</string>
+    <string name="add_adv">Add Advertisement</string>
+    <string name="edit_adv">Edit Advertisement</string>
+    <string name="favorite">Favorites</string>
+    <string name="change_phone_act">Change phone</string>
+    <string name="select_the_language">Select the language</string>
+    <string name="change_language">Change language</string>
+    <string name="setting">Setting</string>
+    <string name="about_us">About Us</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="map">Map</string>
+    <string name="phone">Phone:</string>
+    <string name="add_new_comment">Add New Comment</string>
+    <string name="add_the_maid_photo">Please, Add the maid`s photo</string>
+    <string name="age">Age:</string>
+    <string name="Comments">Comments</string>
+
+
+    <string-array name="Religion">
+        <item> Islam</item>
+        <item>Christianity	 </item>
+        <item>secularism </item>
+        <item> Hinduism</item>
+        <item> Chinese folk religion</item>
+        <item> Buddhism</item>
+        <item> Traditional African Religions</item>
+        <item> Sikhism</item>
+        <item> spirituality</item>
+        <item> Judaism</item>
+        <item>Bahaai</item>
+        <item> jain</item>
+        <item>Shinto</item>
+        <item>Zoroastrianism </item>
+        <item>paganism</item>
+        <item>Rastafari</item>
+    </string-array>
+
+    <string-array name="Language">
+        <item> Arabic</item>
+        <item> English</item>
+    </string-array>
+
+    <string-array name="Nationality">
+        <item>Afghan</item>
+        <item>American </item>
+        <item> Albanian</item>
+        <item> Algerian</item>
+        <item>Argentine </item>
+        <item> Australian</item>
+        <item> Austrian</item>
+        <item> Bangladeshi</item>
+        <item> Belgian</item>
+        <item> Bolivian</item>
+        <item> Batswana</item>
+        <item>Brazilian </item>
+        <item> Bulgarian</item>
+        <item>Cambodian </item>
+        <item> Cameroonian</item>
+        <item>Canadian </item>
+        <item> Chilean</item>
+        <item> Chinese</item>
+        <item> Colombian</item>
+        <item> Costa Rican	</item>
+        <item>Croatian </item>
+        <item> Cuban</item>
+        <item>Czech </item>
+        <item> Danish</item>
+        <item> Dominican</item>
+        <item> Ecuadorian</item>
+        <item> Egyptian</item>
+        <item> Salvadorian</item>
+        <item> English</item>
+        <item>Estonian </item>
+        <item>Ethiopian </item>
+        <item> Fijian</item>
+        <item> Finnish	</item>
+        <item>French </item>
+        <item> German</item>
+        <item> Ghanaian</item>
+        <item> Greek</item>
+        <item> Guatemalan</item>
+        <item> Haitian</item>
+        <item> Honduran</item>
+        <item> Hungarian</item>
+        <item> Icelandic	</item>
+        <item>Indian </item>
+        <item> Indonesian</item>
+        <item> Iranian</item>
+        <item> Iraqi</item>
+        <item> Irish</item>
+        <item> Italian</item>
+        <item> Jamaican</item>
+        <item> Japanese</item>
+        <item> Jordanian</item>
+        <item> Kenyan</item>
+        <item> Kuwaiti</item>
+        <item>Lao </item>
+        <item> Latvian</item>
+        <item>Lebanese </item>
+        <item> Libyan</item>
+        <item>Lithuanian </item>
+        <item> Malaysian</item>
+        <item> Malian	</item>
+        <item>Maltese </item>
+        <item> Mexican</item>
+        <item>Mongolian </item>
+        <item> Moroccan</item>
+        <item>Mozambican </item>
+        <item>Namibian </item>
+        <item> Nepalese</item>
+        <item> Dutch</item>
+        <item> New Zealand	</item>
+        <item> Nicaraguan	</item>
+        <item> Nigerian</item>
+        <item> Norwegian</item>
+        <item>Pakistani </item>
+        <item> Panamanian</item>
+        <item> Paraguayan</item>
+        <item>Peruvian </item>
+        <item> Philippine</item>
+        <item> Polish</item>
+        <item> Portuguese</item>
+        <item> Romanian</item>
+        <item> Russian</item>
+        <item>Saudi </item>
+        <item> Scottish</item>
+        <item> Senegalese</item>
+        <item> Serbian</item>
+        <item>Singaporean </item>
+        <item> Slovak</item>
+        <item> South African	</item>
+        <item>Korean </item>
+        <item> Spanish</item>
+        <item>Sri Lankan</item>
+        <item> Sudanese</item>
+        <item> Swedish</item>
+        <item> Swiss</item>
+        <item> Syrian</item>
+        <item>Taiwanese </item>
+        <item> Tajikistani</item>
+        <item> Thai</item>
+        <item> Tongan</item>
+        <item>Tunisian </item>
+        <item> Turkish</item>
+        <item> Ukrainian</item>
+        <item>Emirati </item>
+        <item>British </item>
+        <item> Uruguayan</item>
+        <item> Venezuelan</item>
+        <item> Vietnamese</item>
+        <item> Welsh</item>
+        <item> Zambian</item>
+        <item> Zimbabwean</item>
+    </string-array>
+
+    <string-array name="Work_hours">
+        <item> 1</item>
+        <item> 2</item>
+        <item> 3</item>
+        <item> 4</item>
+        <item> 5</item>
+        <item> 6</item>
+        <item>7</item>
+        <item> 8</item>
+        <item> 9</item>
+        <item> 10</item>
+        <item> 11</item>
+        <item>12</item>
+        <item> 13</item>
+        <item> 14</item>
+        <item> 15</item>
+        <item>16</item>
+        <item>17</item>
+        <item> 18</item>
+        <item> 19</item>
+        <item> 20</item>
+        <item> 21</item>
+        <item>22</item>
+        <item> 23</item>
+        <item>24</item>
+    </string-array>
+
+    <string-array name="exp">
+        <item> taking care of children</item>
+        <item>taking care of old people</item>
+        <item> housekeeping</item>
+        <item> house cleaning</item>
+
+    </string-array>
+    <string name="title_activity_user_home">UserHomeActivity</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_share">Share</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_office_home">OfficeHomeActivity</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>

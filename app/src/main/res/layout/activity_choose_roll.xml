@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.ChooseRollActivity">
+
+    <ImageView
+        android:id="@+id/t1"
+        android:layout_width="@dimen/_300sdp"
+        android:layout_height="@dimen/_200sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.563"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/laffayeh" />
+
+    <TextView
+        android:id="@+id/tvUserPhone"
+        android:layout_width="412dp"
+        android:layout_height="63dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/choose_your_role"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="@dimen/_18ssp"
+        android:textStyle="bold"
+        app:fontFamily="casual"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.084"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/t1" />
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="@dimen/_40sdp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.179"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvUserPhone">
+
+        <RadioButton
+            android:id="@+id/r1"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_62sdp"
+            android:onClick="user"
+            android:text="@string/user"
+            android:textSize="@dimen/_14ssp"
+            android:textStyle="italic" />
+
+        <RadioButton
+            android:id="@+id/r2"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_75sdp"
+            android:onClick="office"
+            android:text="@string/housemaid_office"
+            android:textSize="@dimen/_14ssp"
+            android:textStyle="italic" />
+
+        <RadioButton
+            android:id="@+id/r3"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_72sdp"
+            android:onClick="freelancer"
+            android:text="@string/housemaid_freelancer"
+            android:textSize="@dimen/_14ssp"
+            android:textStyle="italic" />
+    </RadioGroup>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">لفاية</string>
+    <string name="title_activity_user_profile">UserProfileActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="menu_home">الصفحة الرئيسية</string>
+    <string name="menu_my_profile">الصفحة الشخصية</string>
+    <string name="menu_favorite">المفضلة</string>
+    <string name="menu_setting">الاعدادات</string>
+    <string name="menu_contact_us">اتصل بنا</string>
+    <string name="menu_logout">تسجيل خروج</string>
+    <string name="title_activity_office_profile">الصفحة الرئيسية للمكتب</string>
+    <string name="menu_office_profile">الصفحة الشخصية</string>
+    <string name="menu_add_advertisement">إضافة الاعلان</string>
+    <string name="menu_edit_advertisement">تعديل الاعلان</string>
+    <string name="menu_about_us">عن التطبيق</string>
+    <string name="AboutUs">مهمة "لفايّة" هي مساعدة العملاء الذين يحتاجون إلى خادمات. يمكن للعميل الحصول على الإعلانات من خلال البحث عن خصائص محددة للخادمة من المكاتب أو العاملين لحسابهم الخاص والبحث عن الأقرب ، مما يقلل الوقت والتكلفة والمال.
+</string>
+
+    <string name="menu_tools">Tools</string>
+    <string name="menu_send">Send</string>
+
+    <string name="choose_your_role">اختر الدور المناسب:</string>
+    <string name="user">مدبر المنزل</string>
+    <string name="housemaid_office">مكتب استقدام خادمات</string>
+    <string name="housemaid_freelancer">خادمة منزلية</string>
+    <string name="please_wait_the_code">يرجى إدخال الرمز</string>
+    <string name="enter_the_code">أدخل الرمز</string>
+    <string name="verify">التحقق</string>
+    <string name="please_enter_your_phone">يرجى ادخال رقم هاتفك!</string>
+    <string name="enter_your_phone">ادخل هاتفك</string>
+    <string name="Continue">الاستمرار</string>
+    <string name="New_to_Laffayeh_sign_up">مستخدم جديد في التطبيق؟افتح حساب الان</string>
+    <string name="Fastest_way_to_get_your_housemaid">أسرع طريقة للحصول على خادمة منزلك!</string>
+    <string name="Name">الإسم:</string>
+    <string name="Email">البريد الالكتروني:</string>
+    <string name="Birth">تاريخ ميلادك:</string>
+    <string name="Kindly_Add_your_official_Photo">يمكنك اضافة صورتك الشخصية:</string>
+    <string name="Submit">تسليم</string>
+    <string name="Kindly_Add_your_official_Logo">يمكنك اضافة شعار الخاص بك: </string>
+    <string name="Language">اللغة:</string>
+    <string name="Nationality">الجنسية:</string>
+    <string name="Religion">الديانة:</string>
+    <string name="Work_hours">عدد ساعات العمل:</string>
+    <string name="experience">الخبرة:</string>
+    <string name="Add_Advertisement">اضافة الاعلان!</string>
+    <string name="Work_days">أيام العمل:</string>
+    <string name="Sunday">الأحد</string>
+    <string name="Monday">الأثنين</string>
+    <string name="Tuesday">الثلاثاء</string>
+    <string name="Wednesday">الاربعاء</string>
+    <string name="Thursday">الخميس</string>
+    <string name="Friday">الجمعة</string>
+    <string name="Saturday">السبت</string>
+    <string name="change_phone_act">تغير رقم الهاتف</string>
+    <string name="select_the_language">اختر اللغة</string>
+    <string name="change_language">تغير اللغة</string>
+
+    <string name="my_profile">صفحتي</string>
+    <string name="add_adv">اضافة اعلان</string>
+    <string name="edit_adv">تعديل الاعلان</string>
+    <string name="favorite">المفضلة</string>
+    <string name="setting">الاعدادات</string>
+    <string name="about_us">عن التطبيق</string>
+    <string name="contact_us">تواصل معنا</string>
+
+    <string name="map">الخريطة</string>
+    <string name="phone">رقم الموبايل</string>
+    <string name="add_new_comment">إضافة تعليق جديد</string>
+    <string name="add_the_maid_photo">من فضلك,اضف صورة العاملة</string>
+    <string name="age">العمر:</string>
+    <string name="Comments">التعليقات</string>
+
+
+
+
+    <string-array name="Religion">
+        <item>اسلام</item>
+        <item>مسيحية</item>
+        <item>علمانية</item>
+        <item>هندوسية</item>
+        <item>الديانة الشعبية الصينية</item>
+        <item>بوذية</item>
+        <item>الديانات الافريقية التقليدية </item>
+        <item>سيخية </item>
+        <item>روحانية</item>
+        <item>يهودية</item>
+        <item>بهائية</item>
+        <item>جاينية</item>
+        <item>شنتو</item>
+        <item>زرادتشية</item>
+        <item>وثينة</item>
+        <item>راستافارية</item>
+    </string-array>
+
+    <string-array name="Nationality">
+        <item>أفغاني</item>
+        <item>أمريكي </item>
+        <item> الألباني</item>
+        <item> جزائري</item>
+        <item>أرجنتيني </item>
+        <item> أسترالي</item>
+        <item> نمساوي</item>
+        <item> بنغلادشي</item>
+        <item> بلجيكي</item>
+        <item> بوليفي</item>
+        <item>برازيلي </item>
+        <item> بلغاري</item>
+        <item>كمبوديا </item>
+        <item> كاميروني</item>
+        <item>كندي </item>
+        <item> شيلي</item>
+        <item> صيني</item>
+        <item> كولومبي</item>
+        <item> كوستاريكا	</item>
+        <item>كرواتي </item>
+        <item> كوبي</item>
+        <item> تشيكي</item>
+        <item> دانماركي</item>
+        <item> دومينيكان</item>
+        <item> الاكوادوري</item>
+        <item> مصري</item>
+        <item> سلفادوري</item>
+        <item> انجليزي</item>
+        <item>استوني </item>
+        <item>حبشي </item>
+        <item> فيجي</item>
+        <item> فنلندي</item>
+        <item>فرنسي </item>
+        <item> ألمان</item>
+        <item> الغاني</item>
+        <item> اغريقي</item>
+        <item> غواتيمالي</item>
+        <item> هايتي </item>
+        <item> هوندارس</item>
+        <item> هنغاري</item>
+        <item> ايسلندي</item>
+        <item>هندي </item>
+        <item> اندونيسي</item>
+        <item> ايراني</item>
+        <item> عراقي</item>
+        <item> ايرلندي</item>
+        <item> ايطالي</item>
+        <item> جمايكي</item>
+        <item> ياباني</item>
+        <item> اردني </item>
+        <item> كيني</item>
+        <item> كويتي </item>
+        <item> لاوسي </item>
+        <item> لاتيفي</item>
+        <item>لبناني  </item>
+        <item> ليبي</item>
+        <item>اللتواني </item>
+        <item> ماليزي</item>
+        <item> مالي	</item>
+        <item>مالطي </item>
+        <item> ميكسي</item>
+        <item>منغولي </item>
+        <item> مغربي</item>
+        <item>موزمبيقي </item>
+        <item>ناميبي </item>
+        <item> نيبالي</item>
+        <item> هولندي</item>
+        <item> نيوزلاندي	</item>
+        <item> نيكاراغوا	</item>
+        <item> نيجيري</item>
+        <item> نرويجي</item>
+        <item>بكستاني </item>
+        <item> بنمي</item>
+        <item> باراغواي</item>
+        <item>بيرو </item>
+        <item> فلبيني</item>
+        <item> بولندي</item>
+        <item> برتغالي</item>
+        <item> روماني</item>
+        <item> روسي</item>
+        <item>سعودي  </item>
+        <item> سكتلندي</item>
+        <item> سنغالي</item>
+        <item> صربي</item>
+        <item>سنغافوري </item>
+        <item> السلوفاكي</item>
+        <item> جنوب افريقي</item>
+        <item>كوري  </item>
+        <item> اسباني</item>
+        <item> سريلنكا</item>
+        <item> سوداني</item>
+        <item> سويدي</item>
+        <item> سويسري</item>
+        <item> سوري</item>
+        <item>تايوني</item>
+        <item> سوموني</item>
+        <item> تايلندي</item>
+        <item> تونجي</item>
+        <item>تونسي </item>
+        <item> تركي</item>
+        <item>اوكراني</item>
+        <item>اماراتي</item>
+        <item>بريطاني</item>
+        <item>اوروجواي</item>
+        <item> فانزولي</item>
+        <item>الفيتنامي</item>
+        <item>ويزلي</item>
+        <item>زامبي</item>
+        <item>زيمبابوي</item>
+
+    </string-array>
+
+    <string-array name="exp">
+
+        <item>رعاية الأطفال</item>
+        <item>رعاية كبار السن</item>
+        <item>التدبير المنزلي</item>
+        <item>تنظيف المنزل</item>
+
+    </string-array>
+
+    <string-array name="Language">
+        <item>العربية</item>
+        <item>الانجليزية</item>
+    </string-array>
+
+
+<string name="title_activity_user_home">UserHomeActivity</string>
+<string name="menu_gallery">Gallery</string>
+<string name="menu_slideshow">Slideshow</string>
+<string name="menu_share">Share</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+<string name="hello_blank_fragment">Hello blank fragment</string>
+<string name="title_activity_office_home">OfficeHomeActivity</string>
+<string name="title_activity_maps">Map</string>
+
+</resources>

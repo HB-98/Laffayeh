@@ -1,0 +1,109 @@
+{
+  "project_info": {
+    "project_number": "291721137698",
+    "firebase_url": "https://laffayeh-app-b7d29.firebaseio.com",
+    "project_id": "laffayeh-app-b7d29",
+    "storage_bucket": "laffayeh-app-b7d29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291721137698:android:52681d51b8cca79790c47b",
+        "android_client_info": {
+          "package_name": "com.example.laffayeh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291721137698-di9f1t5dtrjt4h2q2tjg0mvs67qgqsgk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.laffayeh",
+            "certificate_hash": "ce371b607da09bf50e791825baadf292cf0cf4c7"
+          }
+        },
+        {
+          "client_id": "291721137698-f61hplcv7ufq72oqeeq6002ra7h6eb93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.laffayeh",
+            "certificate_hash": "8e83af0651d22b1ee8bd6a50bfc5dd96d2a75664"
+          }
+        },
+        {
+          "client_id": "291721137698-8c26fjjesqhqo6eualepo8m9mlbhqum7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.laffayeh",
+            "certificate_hash": "0fd35910360160ef607bd4a3c171140eba2bc189"
+          }
+        },
+        {
+          "client_id": "291721137698-99vkko94lb2bpj1nujb7j4i7mrd5bo9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyUaGenXhGw-YYYOC5ErjMaqlcNBELhJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291721137698-99vkko94lb2bpj1nujb7j4i7mrd5bo9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291721137698:android:115120d51908a2fe90c47b",
+        "android_client_info": {
+          "package_name": "hbh0163874.uj.laffayehapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291721137698-qp6u4m6c6aprc169blfhlspbbrgr1n6g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hbh0163874.uj.laffayehapp",
+            "certificate_hash": "0fd35910360160ef607bd4a3c171140eba2bc189"
+          }
+        },
+        {
+          "client_id": "291721137698-v29d4akk7ckmi4sbtqoq6afa5kg0a4il.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hbh0163874.uj.laffayehapp",
+            "certificate_hash": "ce371b607da09bf50e791825baadf292cf0cf4c7"
+          }
+        },
+        {
+          "client_id": "291721137698-99vkko94lb2bpj1nujb7j4i7mrd5bo9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyUaGenXhGw-YYYOC5ErjMaqlcNBELhJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291721137698-99vkko94lb2bpj1nujb7j4i7mrd5bo9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
